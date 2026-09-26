@@ -16,6 +16,8 @@
         "ms-python.isort",
         "ms-python.flake8",
         "ms-azuretools.vscode-docker",
+        "ms-vscode.cpptools",        // cppdbg debugger + IntelliSense (fixes your error)
+        "ms-vscode.cmake-tools",     // optional: CMake status-bar buttons
         "GitHub.copilot"  // ✅ GitHub Copilot
       ],
       "settings": {
